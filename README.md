@@ -4,4 +4,4 @@ This is an example implementation of the paper "**Hidden Degrees of Freedom in I
 Running the code requires *Houdini* (tested with Houdini 18.5).
 
 ## Basic usage
-See README_run_simulation.txt and README_save_and_load.txt
+See "README_run_simulation.txt" and "README_save_and_load.txt"
