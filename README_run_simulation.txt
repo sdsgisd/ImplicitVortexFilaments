@@ -1,5 +1,7 @@
 How to run a simulation?
 
+0. Open implicit_filaments.hipnc with SideFX's Houdini. 
+
 1. Connect "init_SCENE_NAME"  node to "SimulationInputs" node, and activate "simulate_filaments" node.
 
 2. Activate the following nodes in the "dopnet_filaments" node.
