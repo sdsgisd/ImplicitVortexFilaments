@@ -5,9 +5,9 @@ This is an example implementation of the paper "**Hidden Degrees of Freedom in I
 [[Project site]][P]  
 <a href="https://sadashigeishida.bitbucket.io/implicit_filaments/">  <img src="https://sadashigeishida.bitbucket.io/implicit_filaments/TorusKnotComp.jpg" height="150px"> </a>  
 [[Youtube video]][Y]  
-<a href="https://youtu.be/nHG4Fmq-Jmk"><img src="https://i.ytimg.com/vi/nHG4Fmq-Jmk/0.jpg" width="200px"></a>
+<a href="https://youtu.be/f6YL37L5a9w"><img src="https://i.ytimg.com/vi/f6YL37L5a9w/0.jpg" width="200px"></a>
 
-[Y]:https://youtu.be/nHG4Fmq-Jmk
+[Y]:https://youtu.be/f6YL37L5a9w
 [P]:https://sadashigeishida.bitbucket.io/implicit_filaments/  
 
 
