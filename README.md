@@ -1,5 +1,4 @@
 # Implicit Vortex Filaments
-
 This is an example implementation of the paper "**Hidden Degrees of Freedom in Implicit Vortex Filaments**", Sadashige Ishida, Chris Wojtan, Albert Chern, Transactions on Graphics (2022). 
 
 [[Project site]][P]  
