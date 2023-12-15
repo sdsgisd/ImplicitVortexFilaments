@@ -10,6 +10,7 @@ This is an example implementation of the paper "**Hidden Degrees of Freedom in I
 [Y]:https://youtu.be/f6YL37L5a9w
 [P]:https://sadashigeishida.bitbucket.io/implicit_filaments/  
 
+[Author] Sadashige Ishida and Albert Chern
 
 ## Environment
 Running the code requires *Houdini* (tested with Houdini 18.5).
